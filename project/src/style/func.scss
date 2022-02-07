@@ -1,5 +1,0 @@
-
-@function px2rem($px) {
-  $item: 75px;
-  @return $px / $item + rem;
-}
